@@ -37,8 +37,6 @@ L<Acme::CPANAuthors::AnyEvent> - We are CPAN Authors of AnyEvent!
 
 L<Acme::CPANAuthors::Booking> - Booking.com CPAN authors
 
-L<Acme::CPANAuthors::British::Companies> - We are British Companies with PAUSE IDs
-
 L<Acme::CPANAuthors::CPANTS::FiveOrMore> - CPAN Authors with five or more dists
 
 L<Acme::CPANAuthors::CodeRepos> - We are CPAN authors using CodeRepos
