@@ -1,3 +1,7 @@
 Revision history for Task-CPANAuthors
 
 {{$NEXT}}
+
+1.000 Sun May 11 2014
+        - First version of the task
+        - includes 17 Acme::CPANAuthors modules and Task::CPANAuthors::Regional
