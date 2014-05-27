@@ -49,6 +49,8 @@ L<Acme::CPANAuthors::GitHub> - CPAN Authors with GitHub repositories
 
 L<Acme::CPANAuthors::InMemoriam> - Remembering our fallen heroes
 
+L<Acme::CPANAuthors::MetaSyntactic> - MetaSyntactic CPAN authors
+
 L<Acme::CPANAuthors::Misanthrope> - The CPAN authors who see into your soul with perfect clarity
 
 L<Acme::CPANAuthors::Nonhuman> - We are non-human CPAN authors
