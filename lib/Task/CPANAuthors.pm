@@ -39,6 +39,8 @@ L<Acme::CPANAuthors::BackPAN::OneHundred> - The CPAN Authors who have 100+ distr
 
 L<Acme::CPANAuthors::Booking> - Booking.com CPAN authors
 
+L<Acme::CPANAuthors::CPAN::OneHundred> - The CPAN Authors who have 100+ distributions on CPAN
+
 L<Acme::CPANAuthors::CPANTS::FiveOrMore> - CPAN Authors with five or more dists
 
 L<Acme::CPANAuthors::CodeRepos> - We are CPAN authors using CodeRepos
