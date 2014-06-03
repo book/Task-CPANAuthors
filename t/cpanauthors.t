@@ -53,8 +53,6 @@ diag "Reading packages from $details";
 my $index = CPAN::Common::Index::LocalPackage->new( { source => $details } );
 
 # get both lists
-
-# TODO - read from dist.ini and Task::CPANAuthors::Regional's
 my @current;
 
 diag "Reading modules from $dist_ini";
