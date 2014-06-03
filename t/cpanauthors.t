@@ -13,15 +13,17 @@ for my $prereq ( 'CPAN::Common::Index::LocalPackage', 'Config::INI::Reader' )
 }
 
 # assume Task-CPANAuthors-Regional lives next door
+# or close enough
 my $dist_ini     = 'dist.ini';
-my $regional_ini = File::Spec->catfile( File::Spec->updir,
-    'Task-CPANAuthors-Regional' => 'dist.ini' );
+my ($regional_ini) = grep -e,
+    map File::Spec->catfile( @$_, 'Task-CPANAuthors-Regional' => 'dist.ini' ),
+    map [ ( File::Spec->updir ) x $_ ], 1 .. 5;
 
 plan skip_all => "Could not find dist.ini for Task-CPANAuthors"
     if !-e $dist_ini;
 
 plan skip_all => "Could not find dist.ini for Task-CPANAuthors-Regional"
-    if !-e $regional_ini;
+    if !$regional_ini;
 
 plan tests => 1;
 
