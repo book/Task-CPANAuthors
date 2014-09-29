@@ -45,6 +45,8 @@ L<Acme::CPANAuthors::CPANTS::FiveOrMore> - CPAN Authors with five or more dists
 
 L<Acme::CPANAuthors::CodeRepos> - We are CPAN authors using CodeRepos
 
+L<Acme::CPANAuthors::DebianDev> - CPAN authors who are Debian Developers
+
 L<Acme::CPANAuthors::DualLife> - We are CPAN Authors of Dual Life core modules
 
 L<Acme::CPANAuthors::GeekHouse> - We're CPAN Authors in The Geek House
