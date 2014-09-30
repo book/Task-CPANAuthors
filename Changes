@@ -2,6 +2,9 @@ Revision history for Task-CPANAuthors
 
 {{$NEXT}}
 
+1.003 Tue Sep 30 2014
+    - add Acme::CPANAuthors::DebianDev
+
 1.002 Tue Jun 3 2014
     - add Acme::CPANAuthors::MetaSyntactic
     - add Acme::CPANAuthors::BackPAN::OneHundred
