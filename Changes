@@ -2,6 +2,9 @@ Revision history for Task-CPANAuthors
 
 {{$NEXT}}
 
+1.004 Sun Jan 18 2015
+    - add Acme::CPANAuthors::MBTI
+
 1.003 Tue Sep 30 2014
     - add Acme::CPANAuthors::DebianDev
 
