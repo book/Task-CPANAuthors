@@ -43,6 +43,8 @@ L<Acme::CPANAuthors::CPAN::MostScripts> - Authors with the most scripts on CPAN
 
 L<Acme::CPANAuthors::CPAN::OneHundred> - The CPAN Authors who have 100+ distributions on CPAN
 
+L<Acme::CPANAuthors::CPAN::TopDepended> - Authors with the largest number of distributions depending on one of his/her modules
+
 L<Acme::CPANAuthors::CPANTS::FiveOrMore> - CPAN Authors with five or more dists
 
 L<Acme::CPANAuthors::CodeRepos> - We are CPAN authors using CodeRepos
