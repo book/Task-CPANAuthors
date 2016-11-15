@@ -39,6 +39,8 @@ L<Acme::CPANAuthors::BackPAN::OneHundred> - The CPAN Authors who have 100+ distr
 
 L<Acme::CPANAuthors::Booking> - Booking.com CPAN authors
 
+L<Acme::CPANAuthors::CPAN::MostScripts> - Authors with the most scripts on CPAN
+
 L<Acme::CPANAuthors::CPAN::OneHundred> - The CPAN Authors who have 100+ distributions on CPAN
 
 L<Acme::CPANAuthors::CPANTS::FiveOrMore> - CPAN Authors with five or more dists
