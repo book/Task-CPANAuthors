@@ -2,6 +2,11 @@ Revision history for Task-CPANAuthors
 
 {{$NEXT}}
 
+1.005 Sun Nov 20 2016
+    - add Acme::CPANAuthors::CPAN::MostScripts
+    - add Acme::CPANAuthors::CPAN::TopDepended
+    - add Acme::CPANAuthors::CPAN::TopDepended::ByOthers
+
 1.004 Sun Jan 18 2015
     - add Acme::CPANAuthors::MBTI
 
