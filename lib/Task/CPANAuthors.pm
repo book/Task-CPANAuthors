@@ -83,7 +83,7 @@ L<Task::CPANAuthors::STRO> is not related to L<Acme::CPANAuthors>.
 
 =head1 COPYRIGHT
 
-Copyright 2014 Philippe Bruhat (BooK), All Rights Reserved.
+Copyright 2014-2021 Philippe Bruhat (BooK), All Rights Reserved.
 
 =head1 LICENSE
 
