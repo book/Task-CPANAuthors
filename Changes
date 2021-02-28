@@ -2,6 +2,9 @@ Revision history for Task-CPANAuthors
 
 {{$NEXT}}
 
+1.006 Sun Feb 28 2021
+    - remove Acme::CPANAuthors::Booking
+
 1.005 Sun Nov 20 2016
     - add Acme::CPANAuthors::CPAN::MostScripts
     - add Acme::CPANAuthors::CPAN::TopDepended
